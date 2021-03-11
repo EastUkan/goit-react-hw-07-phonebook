@@ -1,0 +1,19 @@
+{
+  "contacts": [
+    {
+      "name": "Rosie Simpson",
+      "number": "459-12-56",
+      "id": 1
+    },
+    {
+      "name": "Hermione Kline",
+      "number": "443-89-12",
+      "id": 2
+    },
+    {
+      "name": "hhhh",
+      "number": "65465",
+      "id": 3
+    }
+  ]
+}
